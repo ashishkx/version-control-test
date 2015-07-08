@@ -4,7 +4,7 @@ String breed;
 String name;
 
 void bark() {
-	System.out.println("Ruff Ruff!!");
+	System.out.println("WHOOO LET THE DOGS OUTT. WHO. WHO. WHO????!!!" 
 	}
 }
 
@@ -13,3 +13,4 @@ class myDogTestDrive {
 	myDog d = new Dog();
 	d.size = 40;
 	d.bark();
+	
