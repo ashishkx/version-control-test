@@ -8,9 +8,17 @@ void bark() {
 	}
 }
 
+
+void bark2() {
+	System.out.println("Wuff Wuff" 
+	}
+}
+
+
 class myDogTestDrive {
 	public static void main (String[] args) {
 	myDog d = new Dog();
 	d.size = 40;
 	d.bark();
+	d.bark2();
 	
